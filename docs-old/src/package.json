@@ -27,6 +27,6 @@
     "vuex-router-sync": "^5.0.0"
   },
   "dependencies": {
-    "codesandbox": "^1.2.2"
+    "codesandbox": "^2.1.3"
   }
 }
